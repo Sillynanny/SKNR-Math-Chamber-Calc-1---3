@@ -1,2 +1,2 @@
-# SKNR-Math-Chamber-IM2---Calc-3
-math notes (project) for im2 -> calc 3
+# SKNR-Math-Chamber-Calc 1---3
+math notes (project) for calc 1 -> 3
